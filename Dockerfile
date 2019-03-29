@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark:v2.4.0
+FROM gcr.io/google_containers/kube-state-metrics:v0.5.0
